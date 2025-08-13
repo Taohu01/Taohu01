@@ -14,17 +14,13 @@
 ---
 
 ## 🚀 About Me
-asdasdasdasd.
-
-asdasdasdsadwas.
-
+No
 ---
 
 ## 💡 Core Development
 
 | Technology | Description |
 |------------|-------------|
-| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | UI, Widgets, BLoC – studying |
 | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | Programming language for Flutter |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Understanding and writing with Object-Oriented Programming (OOP) principles |
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Low-level programming |
@@ -34,11 +30,9 @@ asdasdasdsadwas.
 | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) | Embedded systems, electronics projects |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Basic structure for web content |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Basic Styling and visual presentation for web pages |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Basic client-side scripting for interactive web experiences |
 | NodeMCU, IoT Sensors | Internet of Things prototyping |
 | PL/SQL | Oracle database scripting |
 | REST API & JSON | CRUD operations |
-| Oracle APEX | Web services & low-code development |
 
 ---
 
@@ -67,7 +61,6 @@ asdasdasdsadwas.
 
 | Tool | Description |
 |------|-------------|
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Version control system |
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Code hosting platform |
 
 ---
@@ -77,38 +70,36 @@ asdasdasdsadwas.
 | Tool | Description |
 |------|-------------|
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code editor |
-| ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) | Android app development and emulator |
+
 
 
 ---
 
 # 🧪 Projects
 
-## 📱 Mobile: **Smart Waste Management System + IoT**
+## 📱 IOT: **Smart Farm + AI Image Processing**
 - Final-year project integrating Flutter with NodeMCU and sensors
-- REST API for data sync between IoT and mobile UI
+- Image Processor for plant Analytics
 ### Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## 🏭 Internship: **Warehouse Management System (WMS)**
-- Worked in a real development team for 4 months
-- Implemented **CRUD** operations for Functions in WMS
-- Designed input forms, validation, and update logic with Flutter UI
-- Technologies: Flutter (UI), REST API, SQL, PL/SQL, Oracle databse
-
+## 📱 IOT: **Smart Security door + face scan**
+- Final-year project of High Vocational Certificate with NodeMCU, sensors and Jetson Nano
+- Face scan for security
 ### Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# Experience
+## 🏭 Internship: **ADVICE [LAMPANG]**
+- Worked as tecnician for 2 months
+- Gained experience in presentation, sales skills, and equipment identification.
+- Repaired actual computers using tools.
+- Acquired skills in software installation, data recovery, computer assembly, and systematic work processes.
 
-### 💼 Internship Jul 2024 - Oct 2024
-- soft square international co. ltd
-- Software Developer (Mobile Application Developer)
-
-### Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+## 🏭 Internship: **SpeedCM [Chiangmai]**
+- Gained experience in design and creative work.
+- Practiced repairing office equipment.
+- Gained experience in presentation, sales skills, and equipment identification.
 
 |Description                                                                                                    |
 |---------------------------------------------------------------------------------------------------------------|
-| Developed a Warehouse Management System (WMS) to manage inventory movement and storage using Flutter for mobile front-end and Oracle for secure back-end data management. |
+|  |
