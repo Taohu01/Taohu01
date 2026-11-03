@@ -4,7 +4,7 @@
 - ✅ **---------**  
 - ✅ **---------**
 
-📍 Based in Thailand | 🌐 Open to On-site / Hybrid / Remote Work  
+📍 Based in Thailand / 🌐 Open to any country | 🌐 Open to On-site / Hybrid / Remote Work  
 
 ## 📬 Contact Me
 
