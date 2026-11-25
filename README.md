@@ -6,9 +6,23 @@
 
 📍 Based in Thailand (Chiang Mai / Lampang) · 🌐 Open to any country · On-site / Hybrid / Remote
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contractsme1@gmail.com)
+[![Gmail](https://img.shields.io/badge/contractsme1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contractsme1@gmail.com)
+![Phone](https://img.shields.io/badge/095_645_6916-25D366?style=for-the-badge&logo=phone&logoColor=white)
+![Location](https://img.shields.io/badge/Can_be_anywhere-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
+
+```js
+const pichaya = {
+  role:      "Computer Engineering Student",
+  school:    "Rajamangala University of Technology",
+  focus:     ["IoT & Embedded", "Machine Learning", "Deep Learning", "Software Development"],
+  hardware:  ["ESP32", "NodeMCU", "Arduino", "Jetson Nano"],
+  strength:  "Bridging the gap between hardware and software",
+  languages: { thai: "Native", english: "B2", romanian: "A1" },
+  available: "Anywhere · On-site / Hybrid / Remote",
+};
+```
 
 ---
 
@@ -28,8 +42,8 @@ I enjoy bridging the gap between hardware and software — from ESP32/NodeMCU se
 
 | Period | Institution | Program | GPA |
 |---|---|---|---|
-| 2023 – 2026 | Rajamangala University of Technology | **Bachelor of Computer Engineering** — Machine Learning, Neural Networks & Deep Learning, Software Design & Development | 2.78 |
-| 2021 – 2022 | Lampang Technical College | **High Vocational Certificate, Computer Technology** — Computer Technology, Electronics, Basic Electrical | 3.58 |
+| 2023 – 2026 | Rajamangala University of Technology | **Bachelor of Computer Engineering** — Machine Learning, Neural Networks & Deep Learning, Software Design & Development | **3.00** / 4.0 |
+| 2021 – 2022 | Lampang Technical College | **High Vocational Certificate, Computer Technology** — Computer Technology, Electronics, Basic Electrical | **3.50** / 4.0 |
 
 ---
 
@@ -145,6 +159,7 @@ I enjoy bridging the gap between hardware and software — from ESP32/NodeMCU se
 
 - 🇹🇭 Thai — Native
 - 🇬🇧 English — Intermediate (B2)
+- 🇷🇴 Romanian — Basic (A1)
 
 ---
 
