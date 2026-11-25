@@ -4,6 +4,8 @@
 
 **Computer Engineering Student · IoT & Embedded Systems · AI / Machine Learning**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;IoT+%26+Embedded+Systems+(ESP32+%2F+NodeMCU);AI+%2F+Machine+Learning;Bridging+hardware+and+software)](https://github.com/Taohu01)
+
 📍 Based in Thailand (Chiang Mai / Lampang) · 🌐 Open to any country · On-site / Hybrid / Remote
 
 [![Gmail](https://img.shields.io/badge/contractsme1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contractsme1@gmail.com)
@@ -152,6 +154,17 @@ I enjoy bridging the gap between hardware and software — from ESP32/NodeMCU se
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taohu01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=Taohu01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
